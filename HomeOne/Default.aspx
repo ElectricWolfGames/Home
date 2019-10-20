@@ -47,11 +47,13 @@
 
         <div class="col-md-4">
             <h1>Trains Shops</h1>
-            <a href="https://www.metcalfemodels.com" target='_blank'>Metcalfe models</a>
+            <a href="https://www.metcalfemodels.com" target='_blank' class="btn btn-primary btn-lg">Metcalfe models</a>
             <a href="https://www.hornby.com/uk-en/" target='_blank' class="btn btn-primary btn-lg">Hornby</a>
             <a href="https://www.bachmann.co.uk/" target='_blank' class="btn btn-primary btn-lg">Bachmann</a>
             <a href="https://www.hattons.co.uk/stocklist/1000389/hornby_/bargainbymanufacturer.aspx" target='_blank' class="btn btn-primary btn-lg">Hattons (Bargins)</a>
             <a href="http://www.gaugemaster.com/oogauge.html" target='_blank' class="btn btn-primary btn-lg">Gaugemaster</a>
+            <a href="https://www.dapol.co.uk/index.php?route=product/special" target='_blank' class="btn btn-primary btn-lg">Dapol (Special)</a>
+            <a href="https://www.layouts4u.net/" target='_blank' class="btn btn-primary btn-lg">Layouts4u</a>
         </div>
 
         <div class="col-md-4">
