@@ -17,6 +17,7 @@
             <h1>Sales</h1>
             <p>
                 <a href="https://teespring.com/stores/electric-wolfs-den" target='_blank'>teespring electric-wolfs-den</a></br>
+                <a href="https://ads.google.com/" target='_blank'>Google Ads</a></br>
             </p>
         </div>
 
@@ -29,20 +30,14 @@
             <a href="https://www.gwsr.com/" target='_blank' class="btn btn-primary btn-lg">Gloucestershire Warwickshire Railway</a>
             <a href="https://www.nvr.org.uk/" target='_blank' class="btn btn-primary btn-lg">Nene Valley Railway</a>
             <a href="https://www.midlandrailway-butterley.co.uk/" target='_blank' class="btn btn-primary btn-lg">Midland Railway – Butterley</a>
+            <a href="https://www.peakrail.co.uk/" target='_blank' class="btn btn-primary btn-lg">Peak Rail</a>
         </div>
         <div class="col-md-4">
             <h1>Model show events</h1>
             <a href="https://www.ukmodelshops.co.uk/events/local" target='_blank' class="btn btn-success btn-lg">Railway Exhibitions</a>
-            <a href="https://www.ukmodelshops.co.uk/events/19194-KetteringandDistrictModelRailwaySocietyExhibition" target='_blank' class="btn btn-info btn-lg">Sept 14th Kettering and District Model Railway Society</a>
-            <a href="https://www.ukmodelshops.co.uk/events/19063-TrentValleyModelRailwaySocietyExhibition" target='_blank' class="btn btn-info btn-lg">Sept 21th Lichfield Model Railway Exhibition</a>
-            <a href="https://www.ukmodelshops.co.uk/events/19647-TheElizabethanRailwaySocietyExhibition" target='_blank' class="btn btn-primary btn-lg">Oct 12-13th L09 The Elizabethan Railway Society</a>
-            <a href="https://www.ukmodelshops.co.uk/events/18792-MeridienneExhibitionsExhibition" target='_blank' class="btn btn-primary btn-lg">Oct 17-20th L40 Midlands Model Engineering Exhibition</a>
-            <a href="https://www.ukmodelshops.co.uk/events/19552-LincolnandDistrictModelRailwayClubExhibition" target='_blank' class="btn btn-primary btn-lg">Oct 19-20th L25 Lincoln & District Model Railway Club</a>
+
+            <a href="https://www.ukmodelshops.co.uk/events/18754-NottinghamWoodthorpeModelRailwayClubExhibition" target='_blank' class="btn btn-primary btn-lg">Oct 26th Nottingham Woodthorpe Model Railway Exhibition</a>
             <a href="https://www.ukmodelshops.co.uk/events/19429-CorbyandDistrictModelRailwaySocietyExhibition" target='_blank' class="btn btn-primary btn-lg">Oct 26-27th L14 Corby & District Model Railway Society</a>
-            <a href="" target='_blank' class="btn btn-primary btn-lg">Oct 20th </a>
-            <a href="" target='_blank' class="btn btn-primary btn-lg">Oct 20th </a>
-            <a href="" target='_blank' class="btn btn-primary btn-lg">Oct 20th </a>
-            <a href="" target='_blank' class="btn btn-primary btn-lg">Oct 20th </a>
         </div>
 
         <div class="col-md-4">
@@ -54,6 +49,8 @@
             <a href="http://www.gaugemaster.com/oogauge.html" target='_blank' class="btn btn-primary btn-lg">Gaugemaster</a>
             <a href="https://www.dapol.co.uk/index.php?route=product/special" target='_blank' class="btn btn-primary btn-lg">Dapol (Special)</a>
             <a href="https://www.layouts4u.net/" target='_blank' class="btn btn-primary btn-lg">Layouts4u</a>
+
+            <a href="https://www.oxforddiecast.co.uk/collections/1-76" target='_blank' class="btn btn-primary btn-lg">Oxford Die Casts</a>
         </div>
 
         <div class="col-md-4">
@@ -82,10 +79,12 @@
         </div>
 
         <div class="col-md-4">
-            <h1>Sales</h1>
-            <p>
-                <a href="https://teespring.com/stores/electric-wolfs-den" target='_blank'>teespring electric-wolfs-den</a></br>
-            </p>
+            <h1>PASSED Model show events</h1>
+            <a href="https://www.ukmodelshops.co.uk/events/19194-KetteringandDistrictModelRailwaySocietyExhibition" target='_blank' class="btn btn-info btn-lg">Sept 14th Kettering and District Model Railway Society</a>
+            <a href="https://www.ukmodelshops.co.uk/events/19063-TrentValleyModelRailwaySocietyExhibition" target='_blank' class="btn btn-info btn-lg">Sept 21th Lichfield Model Railway Exhibition</a>
+            <a href="https://www.ukmodelshops.co.uk/events/19647-TheElizabethanRailwaySocietyExhibition" target='_blank' class="btn btn-info btn-lg">Oct 12-13th L09 The Elizabethan Railway Society</a>
+            <a href="https://www.ukmodelshops.co.uk/events/18792-MeridienneExhibitionsExhibition" target='_blank' class="btn btn-info btn-lg">Oct 17-20th L40 Midlands Model Engineering Exhibition</a>
+            <a href="https://www.ukmodelshops.co.uk/events/19552-LincolnandDistrictModelRailwayClubExhibition" target='_blank' class="btn btn-info btn-lg">Oct 19-20th L25 Lincoln & District Model Railway Club</a>
         </div>
 
         <div class="col-md-4">
