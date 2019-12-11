@@ -8,15 +8,21 @@
 
     <div class="row">
         <div class="col-md-4">
-
+            <h1>Site</h1>
+            <p>
+                <a href="http://electricwolf.co.uk/VintageSciFi/index.html" target='_blank'>Vintage Sci Fi</a></br>
+                <a href="http://electricwolf.co.uk/DEVTS/City/" target='_blank'>MC site</a></br>
+            </p>
+        </div>
+        <div class="col-md-4">
             <h1>eWolf</h1>
-
             <p>
                 <a href="https://github.com/ElectricWolfGames" target='_blank'>Electric Wolf Games GitHub</a></br>
-            <a href="https://travis-ci.org/account/repositories" target='_blank'>Travis</a></br>
-            <a href="https://ci.appveyor.com" target='_blank' app vayor></a></br>
-            <a href="https://www.nuget.org/account/Packages" target='_blank'>nuget packages</a></br>
-            <a href="https://mediag.com/blog/popular-screen-resolutions-designing-for-all/" target='_blank'>Web site sizes</a></br>
+                <a href="https://travis-ci.org/account/repositories" target='_blank'>Travis</a></br>
+                <a href="https://ci.appveyor.com" target='_blank'>app vayor</a></br>
+            <p></p>
+                <a href="https://www.nuget.org/account/Packages" target='_blank'>nuget packages</a></br>
+                <a href="https://mediag.com/blog/popular-screen-resolutions-designing-for-all/" target='_blank'>Web site sizes</a></br>
             </p>
 
             <h1>Dev</h1>

@@ -3,7 +3,7 @@
 <asp:Content ID="BodyContent" ContentPlaceHolderID="MainContent" runat="server">
     <div class="jumbotron">
         <h1>Gaming</h1>
-        <p class="lead">Games, play and let to play</p>
+        <p class="lead">Games, play and yet to play</p>
     </div>
 
     <div class="col-md-4">
@@ -16,13 +16,18 @@
             <a href="https://www.microsoft.com/en-gb/p/lego-the-incredibles/bzp3r43f8dnh?activetab=pivot:overviewtab" target='_blank'>LEGO® The Incredibles</a></br>
             <a href="https://www.microsoft.com/en-gb/p/lego-harry-potter-collection/c3qj2z8q7hfr?activetab=pivot:overviewtab" target='_blank'>LEGO® Harry Potter™ Collection</a></br>
             <a href="https://www.microsoft.com/en-gb/p/red-dead-redemption-2/bpswgqbw7r3g?activetab=pivot:overviewtab" target='_blank'>Red Dead Redemption 2</a></br>
-            <a href="https://www.microsoft.com/en-gb/p/prey/bqmvwcmb8p59?activetab=pivot:overviewtab" target='_blank'>Prey</a></br>
+            <a href="https://www.microsoft.com/en-us/p/metro-exodus/c1tbtqbvjmfl?activetab=pivot:overviewtab" target='_blank'>Metro Exodus</a></br>
             <a href="https://www.microsoft.com/en-gb/p/far-cry-primal/bv6brslfjw3w?activetab=pivot:overviewtab" target='_blank'>Far Cry primal</a></br>
+            <a href="https://www.microsoft.com/en-gb/p/everspace/9nblggh4sf90?activetab=pivot:overviewtab" target='_blank'>EVERSPACE</a></br>
+            <a href="https://www.microsoft.com/en-gb/p/rebel-galaxy/c3mvxtcdkt77?activetab=pivot:overviewtab" target='_blank'>Rebel Galaxy</a></br>
+            the outer worlds</br>
+            Control worlds</br>
         </p>
     </div>
 
     <div class="col-md-4">
         <h1>Games still to play</h1>
+        <li>Sherlock Holmes: The devil's daughter</li>
         <li>The ABC murders</li>
         <li>Assassin Creed</li>
         <li>Assassin's Creed II</li>
@@ -31,7 +36,6 @@
         <li>Assassin's Creed Revelations</li>
         <li>Assassin's Creed Liberations</li>
         <li>Assassin's Creed Rogue</li>
-        <li>Assassin's Creed Odyssey</li>
         <li>Assassin's Creed Origins</li>
         <li>Darksiders</li>
         <li>Far Cry 2</li>
@@ -39,18 +43,21 @@
         <li>Prison Architect</li>
         <li>Forza Horizon 2</li>
         <li>Metal Gear Solid V: The Phantom Pain</li>
-        <li></li>
+        <li>Incredible Adventures of Van Helsing</li>
     </div>
     <div class="col-md-4">
         <h1>Games Complated</h1>
+        <li>Assassin's Creed Odyssey</li>
+        <li>Victor vran 2019 Q4</li>
         <li>Assassin's Creed Unity</li>
         <li>Assassin's Creed Syndicate</li>
         <li>Assassin's Creed Black Flag</li>
-        <li>Mass effect andromeda </li>
+        <li>Mass effect andromeda</li>
         <li>Dead Space</li>
         <li>Dead Space 2</li>
         <li>Dead Space 3</li>
         <li>Lara Croft and the Temple of Osiris</li>
+        <li>Lara Croft and the Guardian of Light 2019 Q4</li>
         <li>Ryse: Son of Rome</li>
         <li>Sherlock Holmes: Crimes & Punishments</li>
     </div>

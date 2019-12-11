@@ -30,18 +30,19 @@
             <a href="https://www.gwsr.com/" target='_blank' class="btn btn-primary btn-lg">Gloucestershire Warwickshire Railway</a>
             <a href="https://www.nvr.org.uk/" target='_blank' class="btn btn-primary btn-lg">Nene Valley Railway</a>
             <a href="https://www.midlandrailway-butterley.co.uk/" target='_blank' class="btn btn-primary btn-lg">Midland Railway – Butterley</a>
+            <a href="https://www.midlandrailway-butterley.co.uk/swanwick-junction/west-shed-experience/" target='_blank' class="btn btn-primary btn-lg">west-shed-experience</a>
             <a href="https://www.peakrail.co.uk/" target='_blank' class="btn btn-primary btn-lg">Peak Rail</a>
         </div>
         <div class="col-md-4">
             <h1>Model show events</h1>
             <a href="https://www.ukmodelshops.co.uk/events/local" target='_blank' class="btn btn-success btn-lg">Railway Exhibitions</a>
-
-            <a href="https://www.ukmodelshops.co.uk/events/18754-NottinghamWoodthorpeModelRailwayClubExhibition" target='_blank' class="btn btn-primary btn-lg">Oct 26th Nottingham Woodthorpe Model Railway Exhibition</a>
-            <a href="https://www.ukmodelshops.co.uk/events/19429-CorbyandDistrictModelRailwaySocietyExhibition" target='_blank' class="btn btn-primary btn-lg">Oct 26-27th L14 Corby & District Model Railway Society</a>
         </div>
 
         <div class="col-md-4">
             <h1>Trains Shops</h1>
+
+            <a href="https://www.digitrains.co.uk/" target='_blank' class="btn btn-primary btn-lg">Digitrains</a>
+
             <a href="https://www.metcalfemodels.com" target='_blank' class="btn btn-primary btn-lg">Metcalfe models</a>
             <a href="https://www.hornby.com/uk-en/" target='_blank' class="btn btn-primary btn-lg">Hornby</a>
             <a href="https://www.bachmann.co.uk/" target='_blank' class="btn btn-primary btn-lg">Bachmann</a>
@@ -51,6 +52,17 @@
             <a href="https://www.layouts4u.net/" target='_blank' class="btn btn-primary btn-lg">Layouts4u</a>
 
             <a href="https://www.oxforddiecast.co.uk/collections/1-76" target='_blank' class="btn btn-primary btn-lg">Oxford Die Casts</a>
+            <a href="https://www.e-gmedia.co.uk/product-page/steam-locos-in-profile-volume-three" target='_blank' class="btn btn-primary btn-lg">steam locos in profile</a>
+            
+
+        </div>
+
+        <div class="col-md-4">
+            <h1>Train things to buy</h1>
+            <p>Hornby R4254: British Pullman Venice Simplon-Orient-Express 00 Gauge  ebay 179.99</p>
+            <a href="https://www.hornby.com/uk-en/railroad-pullman-parlour-brake-car.html" target='_blank' class="btn btn-primary btn-lg">R4313 RailRoad Pullman Parlour Brake Car</a>
+            <a href="https://www.hornby.com/uk-en/railroad-pullman-parlour-car.html" target='_blank' class="btn btn-primary btn-lg">R4312 RailRoad Pullman Parlour Car</a>
+            <a href="" target='_blank' class="btn btn-primary btn-lg"></a>
         </div>
 
         <div class="col-md-4">
@@ -71,23 +83,25 @@
         </div>
 
         <div class="col-md-4">
-            <h1>Site</h1>
-            <p>
-                <a href="http://electricwolf.co.uk/VintageSciFi/index.html" target='_blank'>Vintage Sci Fi</a></br>
-                <a href="http://electricwolf.co.uk/DEVTS/City/" target='_blank'>MC site</a></br>
-            </p>
-        </div>
-
-        <div class="col-md-4">
             <h1>PASSED Model show events</h1>
             <a href="https://www.ukmodelshops.co.uk/events/19194-KetteringandDistrictModelRailwaySocietyExhibition" target='_blank' class="btn btn-info btn-lg">Sept 14th Kettering and District Model Railway Society</a>
             <a href="https://www.ukmodelshops.co.uk/events/19063-TrentValleyModelRailwaySocietyExhibition" target='_blank' class="btn btn-info btn-lg">Sept 21th Lichfield Model Railway Exhibition</a>
             <a href="https://www.ukmodelshops.co.uk/events/19647-TheElizabethanRailwaySocietyExhibition" target='_blank' class="btn btn-info btn-lg">Oct 12-13th L09 The Elizabethan Railway Society</a>
             <a href="https://www.ukmodelshops.co.uk/events/18792-MeridienneExhibitionsExhibition" target='_blank' class="btn btn-info btn-lg">Oct 17-20th L40 Midlands Model Engineering Exhibition</a>
             <a href="https://www.ukmodelshops.co.uk/events/19552-LincolnandDistrictModelRailwayClubExhibition" target='_blank' class="btn btn-info btn-lg">Oct 19-20th L25 Lincoln & District Model Railway Club</a>
+            <a href="https://www.ukmodelshops.co.uk/events/18754-NottinghamWoodthorpeModelRailwayClubExhibition" target='_blank' class="btn btn-info btn-lg">Oct 26th Nottingham Woodthorpe Model Railway Exhibition</a>
+            <a href="https://www.ukmodelshops.co.uk/events/19429-CorbyandDistrictModelRailwaySocietyExhibition" target='_blank' class="btn btn-info btn-lg">Oct 26-27th L14 Corby & District Model Railway Society</a>
+            <a href="https://www.ukmodelshops.co.uk/events/19263-BurtonRailwaySocietyExhibition" target='_blank' class="btn btn-info btn-lg">Nov 3th Burton Railway Society L18</a>
+            <a href="https://www.ukmodelshops.co.uk/events/18413-TrainCollectorsSocietyOpenDay" target='_blank' class="btn btn-info btn-lg">Nov 9th Train Collectors Society L12</a>
+            <a href="https://www.ukmodelshops.co.uk/events/19093-WarnersExhibitionsExhibition" target='_blank' class="btn btn-info btn-lg">Dec 7,8th The National Festival of Railway Modelling L30</a>
         </div>
 
         <div class="col-md-4">
         </div>
+    </div>
+
+    <div class="row">
+        <h1>Locos</h1>
+        <a href="http://www.8fsociety.co.uk/page10.html" target='_blank' class="btn btn-primary btn-lg">8F</a>
     </div>
 </asp:Content>
