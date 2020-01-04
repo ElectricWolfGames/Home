@@ -2,9 +2,14 @@
 
 <asp:Content ID="BodyContent" ContentPlaceHolderID="MainContent" runat="server">
 
-    <div class="jumbotron">
-        <h1>HomeOne</h1>
-    </div>
+    <a class="weatherwidget-io" href="https://forecast7.com/en/52d87n1d08/ng12-5dj/" data-label_1="BEECH AVENUE" data-label_2="WEATHER" data-font="Trebuchet MS" data-icons="Climacons Animated" data-days="5" data-theme="original">BEECH AVENUE WEATHER</a>
+    <script>
+        !function (d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (!d.getElementById(id)) { js = d.createElement(s); js.id = id; js.src = 'https://weatherwidget.io/js/widget.min.js'; fjs.parentNode.insertBefore(js, fjs); } }(document, 'script', 'weatherwidget-io-js');
+    </script>
+
+    <!--<div class="jumbotron">
+    <h1>HomeOne</h1>
+    </div>-->
 
     <div class="row">
         <div class="col-md-4">
@@ -53,8 +58,6 @@
 
             <a href="https://www.oxforddiecast.co.uk/collections/1-76" target='_blank' class="btn btn-primary btn-lg">Oxford Die Casts</a>
             <a href="https://www.e-gmedia.co.uk/product-page/steam-locos-in-profile-volume-three" target='_blank' class="btn btn-primary btn-lg">steam locos in profile</a>
-            
-
         </div>
 
         <div class="col-md-4">

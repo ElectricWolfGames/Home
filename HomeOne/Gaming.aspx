@@ -11,7 +11,6 @@
         <p>
             <a href="https://www.xbox.com/en-GB/games/xbox-one?xr=shellnav" target='_blank'>Xbox store</a></br>
             <a href="https://www.microsoft.com/en-gb/store/cart" target='_blank'>Xbox store CART</a></br>
-            <a href="https://www.microsoft.com/en-gb/p/a-way-out/BWVBNCMF22ZK?activetab=pivot:overviewtab" target='_blank'>A Way Out</a></br>
             <a href="https://www.microsoft.com/en-gb/p/lego-dc-super-villains/bqxvsgcx6k8w?activetab=pivot:overviewtab" target='_blank'>LEGO® DC Super-Villains</a></br>
             <a href="https://www.microsoft.com/en-gb/p/lego-the-incredibles/bzp3r43f8dnh?activetab=pivot:overviewtab" target='_blank'>LEGO® The Incredibles</a></br>
             <a href="https://www.microsoft.com/en-gb/p/lego-harry-potter-collection/c3qj2z8q7hfr?activetab=pivot:overviewtab" target='_blank'>LEGO® Harry Potter™ Collection</a></br>
@@ -20,6 +19,9 @@
             <a href="https://www.microsoft.com/en-gb/p/far-cry-primal/bv6brslfjw3w?activetab=pivot:overviewtab" target='_blank'>Far Cry primal</a></br>
             <a href="https://www.microsoft.com/en-gb/p/everspace/9nblggh4sf90?activetab=pivot:overviewtab" target='_blank'>EVERSPACE</a></br>
             <a href="https://www.microsoft.com/en-gb/p/rebel-galaxy/c3mvxtcdkt77?activetab=pivot:overviewtab" target='_blank'>Rebel Galaxy</a></br>
+            <a href="https://www.microsoft.com/en-gb/p/prey-mooncrash/c4nkf7kljgmt?activetab=pivot:overviewtab" target='_blank'>PREY: Mooncrash</a></br>
+            <a href="https://www.microsoft.com/en-gb/p/farm-together/9mxsdjxfzq25?cid=msft_web_chart&activetab=pivot:overviewtab" target='_blank'>Farm together</a></br>
+
             the outer worlds</br>
             Control worlds</br>
         </p>
@@ -27,6 +29,8 @@
 
     <div class="col-md-4">
         <h1>Games still to play</h1>
+        <li>A way out</li>
+        <li>Overcooked 2</li>
         <li>Sherlock Holmes: The devil's daughter</li>
         <li>The ABC murders</li>
         <li>Assassin Creed</li>
