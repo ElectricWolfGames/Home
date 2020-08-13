@@ -1,10 +1,6 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.IO;
-using System.Linq;
-using System.Web;
+using System.Diagnostics;
 using System.Web.UI;
-using System.Web.UI.WebControls;
 
 namespace HomeOne
 {
@@ -12,6 +8,21 @@ namespace HomeOne
     {
         protected void Page_Load(object sender, EventArgs e)
         {
+        }
+
+        protected void StartHomeVS_Click(object sender, EventArgs e)
+        {
+            Process.Start(@"C:\GitHub\Home\Home.sln", string.Empty);
+        }
+
+        protected void eWolfApps_Click(object sender, EventArgs e)
+        {
+            Process.Start(@"C:\GitHub\eWolfApps\eWolfApps.sln", string.Empty);
+        }
+
+        protected void eWolfMetaImage_Click(object sender, EventArgs e)
+        {
+            Process.Start(@"C:\GitHub\eWolfMetaImage\eWolfMetaImage.sln", string.Empty);
         }
     }
 }

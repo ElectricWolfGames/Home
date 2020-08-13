@@ -1,10 +1,5 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.IO;
-using System.Linq;
-using System.Web;
 using System.Web.UI;
-using System.Web.UI.WebControls;
 
 // https://support.microsoft.com/en-gb/help/323246/how-to-upload-a-file-to-a-web-server-in-asp-net-by-using-visual-c-net
 

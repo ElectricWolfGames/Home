@@ -7,9 +7,20 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace HomeOne {
-    
-    
-    public partial class About {
+namespace HomeOne
+{
+
+
+    public partial class About
+    {
+
+        /// <summary>
+        /// MinifigCatalog control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Button MinifigCatalog;
     }
 }

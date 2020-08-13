@@ -7,10 +7,38 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace HomeOne {
-    
-    
+namespace HomeOne
+{
+
+
     public partial class Development
     {
+
+        /// <summary>
+        /// StartHomeVS control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Button StartHomeVS;
+
+        /// <summary>
+        /// eWolfApps control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Button eWolfApps;
+
+        /// <summary>
+        /// eWolfMetaImage control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Button eWolfMetaImage;
     }
 }
