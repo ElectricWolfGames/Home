@@ -114,7 +114,76 @@
             }
 
         ];
-
         var myDoughnut = new Chart(document.getElementById("canvasDoughnut").getContext("2d")).Doughnut(doughnutData);
+    </script>
+    <!-- Stacked Bar Chart -->
+    <canvas id="StackedBarChart" height="450" width="450"></canvas>
+
+    <script>
+        var barChartData = {
+            labels: ['January', 'February', 'March', 'April', 'May', 'June', 'July'],
+            datasets: [{
+                label: 'Dataset 1',
+                backgroundColor: window.chartColors.red,
+                data: [
+                    randomScalingFactor(),
+                    randomScalingFactor(),
+                    randomScalingFactor(),
+                    randomScalingFactor(),
+                    randomScalingFactor(),
+                    randomScalingFactor(),
+                    randomScalingFactor()
+                ]
+            }, {
+                label: 'Dataset 2',
+                backgroundColor: window.chartColors.blue,
+                data: [
+                    randomScalingFactor(),
+                    randomScalingFactor(),
+                    randomScalingFactor(),
+                    randomScalingFactor(),
+                    randomScalingFactor(),
+                    randomScalingFactor(),
+                    randomScalingFactor()
+                ]
+            }, {
+                label: 'Dataset 3',
+                backgroundColor: window.chartColors.green,
+                data: [
+                    randomScalingFactor(),
+                    randomScalingFactor(),
+                    randomScalingFactor(),
+                    randomScalingFactor(),
+                    randomScalingFactor(),
+                    randomScalingFactor(),
+                    randomScalingFactor()
+                ]
+            }]
+
+        };
+
+        var myStackedBarChart = new Chart(document.getElementById('StackedBarChart').getContext('2d'), {
+            type: 'bar',
+            data: barChartData,
+            options: {
+                title: {
+                    display: true,
+                    text: 'Chart.js Bar Chart - Stacked'
+                },
+                tooltips: {
+                    mode: 'index',
+                    intersect: false
+                },
+                responsive: true,
+                scales: {
+                    xAxes: [{
+                        stacked: true,
+                    }],
+                    yAxes: [{
+                        stacked: true
+                    }]
+                }
+            }
+        });
     </script>
 </asp:Content>

@@ -14,5 +14,11 @@ namespace HomeOne
         {
             Process.Start(@"F:\eWolfSiteUploads\Railways\Catalog\index.html");
         }
+
+        //
+        protected void ShowPensions_Click(object sender, EventArgs e)
+        {
+            Process.Start(@"G:/PersonalDetails/index.html");
+        }
     }
 }

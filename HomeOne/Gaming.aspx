@@ -9,22 +9,39 @@
     <div class="col-md-4">
         <h1>Xbox store</h1>
         <p>
-            <a href="https://www.xbox.com/en-GB/games/xbox-one?xr=shellnav" target='_blank'>Xbox store</a><br />
+            <a href="https://www.xbox.com/en-GB/games/all-games?xr=shellnav" target='_blank'>Xbox store</a><br />
             <a href="https://www.microsoft.com/en-gb/store/cart" target='_blank'>Xbox store CART</a><br />
-            <a href="https://www.microsoft.com/en-gb/p/lego-dc-super-villains/bqxvsgcx6k8w?activetab=pivot:overviewtab" target='_blank'>LEGO® DC Super-Villains</a><br />
-            <a href="https://www.microsoft.com/en-gb/p/lego-the-incredibles/bzp3r43f8dnh?activetab=pivot:overviewtab" target='_blank'>LEGO® The Incredibles</a><br />
-            <a href="https://www.microsoft.com/en-gb/p/lego-harry-potter-collection/c3qj2z8q7hfr?activetab=pivot:overviewtab" target='_blank'>LEGO® Harry Potter™ Collection</a><br />
+
+            <a href="https://www.microsoft.com/en-gb/p/unrailed/9nrlqnvkcgwc?activetab=pivot:overviewtab" target='_blank'>Unrailed!</a><br />
+            <a href="https://www.microsoft.com/en-gb/p/minecraft-starter-collection/9n1xjmdgkhwz?activetab=pivot:overviewtab" target='_blank'>Minecraft Starter Collection</a><br />
+            <a href="https://www.microsoft.com/en-gb/p/assassins-creed-valhalla/9n91xstfchrq?activetab=pivot:overviewtab" target='_blank'>Assassin's Creed Valhalla</a><br />
+            </br>
+
+            <a href="https://www.microsoft.com/en-gb/p/portal-knights-druids-furfolk-and-relic-defense/9p48f1g2wxsf?activetab=pivot:overviewtab" target='_blank'>Portal knights - Druids</a><br />
+            </br>
+
+            <a href="https://www.microsoft.com/en-gb/p/portal-knights-elves-rogues-and-rifts/bntklswptdg7?activetab=pivot:overviewtab" target='_blank'>Portal knights - Elves</a><br />
+            </br>
+
+            <a href="https://www.microsoft.com/en-gb/p/no-mans-sky/bqvqtl3pch05#activetab=pivot:overviewtab" target='_blank'>No Man's Sky</a><br />
+            </br>
+
+            <a href="https://www.microsoft.com/en-gb/p/star-wars-squadrons/bv9cwvqwns4p?activetab=pivot:overviewtab" target='_blank'>STAR WARS™: Squadrons</a><br />
+            </br>
+
             <a href="https://www.microsoft.com/en-gb/p/red-dead-redemption-2/bpswgqbw7r3g?activetab=pivot:overviewtab" target='_blank'>Red Dead Redemption 2</a><br />
+            <a href="https://www.microsoft.com/en-gb/p/subnautica/bx3s1q5dvhrd?activetab=pivot:overviewtab" target='_blank'>Subnautica</a><br />
+
             <a href="https://www.microsoft.com/en-us/p/metro-exodus/c1tbtqbvjmfl?activetab=pivot:overviewtab" target='_blank'>Metro Exodus</a><br />
             <a href="https://www.microsoft.com/en-gb/p/far-cry-primal/bv6brslfjw3w?activetab=pivot:overviewtab" target='_blank'>Far Cry primal</a><br />
             <a href="https://www.microsoft.com/en-gb/p/everspace/9nblggh4sf90?activetab=pivot:overviewtab" target='_blank'>EVERSPACE</a><br />
             <a href="https://www.microsoft.com/en-gb/p/rebel-galaxy/c3mvxtcdkt77?activetab=pivot:overviewtab" target='_blank'>Rebel Galaxy</a><br />
 
-            <a href="https://www.microsoft.com/en-gb/p/farm-together/9mxsdjxfzq25?cid=msft_web_chart&activetab=pivot:overviewtab" target='_blank'>Farm together</a><br />
-            <a href="https://www.microsoft.com/en-gb/p/star-wars-jedi-fallen-order/c2csdtscbz0c?activetab=pivot:overviewtab" target='_blank'>STAR WARS Jedi: Fallen Order</a><br />
             <a href="https://www.microsoft.com/en-gb/p/the-outer-worlds/bvtkn6cq8w5f?activetab=pivot:overviewtab" target='_blank'>The Outer Worlds</a><br />
             <a href="https://www.microsoft.com/en-gb/p/control/bz6w9lrpc26w?activetab=pivot:overviewtab" target='_blank'>Control</a><br />
-            <a href="https://www.microsoft.com/en-gb/p/assassins-creed-valhalla/9p4njfh17mrt?activetab=pivot:overviewtab" target='_blank'>Assassin's Creed Valhalla</a><br />
+            <a href="https://www.microsoft.com/en-gb/p/lego-harry-potter-collection/c3qj2z8q7hfr?activetab=pivot:overviewtab" target='_blank'>LEGO® Harry Potter™ Collection</a><br />
+            <a href="https://www.microsoft.com/en-gb/p/star-wars-jedi-fallen-order/c2csdtscbz0c?activetab=pivot:overviewtab" target='_blank'>STAR WARS Jedi: Fallen Order</a><br />
+            <a href="https://www.microsoft.com/en-gb/p/lego-star-wars-the-skywalker-saga/brmkdczt0c4l" target='_blank'>LEGO® Star Wars™: The Skywalker Saga</a><br />
         </p>
     </div>
 
